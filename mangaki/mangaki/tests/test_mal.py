@@ -2,7 +2,6 @@ import os
 import re
 from unittest.mock import patch
 
-import redis
 import responses
 from django.conf import settings
 from django.contrib.auth.models import User
